@@ -1,2 +1,2 @@
-# my-first-project
+# beginners project
 my first project
